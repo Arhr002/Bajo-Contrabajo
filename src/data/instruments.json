@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "El Contrabajo",
+    "image": "/contrabajo.webp",
+    "description": "El contrabajo es el gigante de la familia de las cuerdas frotadas. Es un instrumento acústico de proporciones masivas, que mide generalmente entre 1.80 y 2 metros. Su cuerpo está compuesto por una caja de resonancia de madera hueca, un mástil largo sin trastes y cuatro cuerdas gruesas. Produce el registro más grave de la orquesta y su sonido se caracteriza por ser profundo, cálido, con una resonancia natural que se siente físicamente en el aire.",
+    "history": "Su origen se remonta al siglo XVI. Es un descendiente directo de la viola da gamba y del violone. Durante siglos, su función fue meramente de acompañamiento, limitándose a \"doblar\" la línea del violonchelo una octava más abajo en las orquestas barrocas y clásicas. No fue hasta el siglo XIX que compositores como Beethoven empezaron a darle pasajes más independientes, y virtuosos como Giovanni Bottesini lo elevaron a la categoría de instrumento solista, demostrando que este gigante podía ser ágil y melódico.",
+    "characteristics": [
+      "Afinación: Se afina por cuartas (Mi, La, Re, Sol), a diferencia del resto de la familia del violín que se afina por quintas.",
+      "Técnicas de ejecución: Se puede tocar con arco (frotando las cuerdas) o con pizzicato (pulsando las cuerdas con los dedos), siendo esta última la técnica estándar en el Jazz y el Blues.",
+      "Sin Trastes (Fretless): El diapasón es liso. El músico debe tener un oído muy entrenado para colocar el dedo en el lugar exacto; un milímetro de diferencia cambia la afinación.",
+      "Variantes de arco: Existen dos estilos de arco: el Francés (agarre superior) y el Alemán (agarre inferior, 'de cuchara')."
+    ],
+    "datoCurioso": "Existe un registro de un instrumento llamado Octobajo, creado en 1850, que mide casi 4 metros de altura. Es tan grande que el músico no puede usar sus dedos directamente sobre las cuerdas; tiene que accionar un sistema de palancas y pedales para poder tocarlo."
+  },
+  {
+    "id": 2,
+    "name": "El Bajo Eléctrico",
+    "image": "/bajo.webp",
+    "description": "El bajo eléctrico es un instrumento de cuerda pulsada diseñado bajo el concepto de la guitarra eléctrica pero con una función rítmico-armónica grave. A diferencia del contrabajo, su cuerpo suele ser de madera sólida (no hueca), lo que requiere de pastillas magnéticas y un amplificador para ser escuchado. Es el estándar en casi todos los géneros populares modernos, desde el Rock y el Pop hasta el Reggae y el Metal.",
+    "history": "Nació de la necesidad de movilidad y volumen en los años 30 y 40. Los bajistas de las bandas de Jazz no podían transportarse fácilmente y su sonido se perdía frente a las trompetas. Aunque hubo intentos previos, la revolución llegó en 1951 cuando Leo Fender lanzó el Precision Bass. Este diseño cambió la música para siempre: era ligero, se podía colgar al hombro y, sobre todo, tenía trastes, lo que permitía a los músicos tocar con una \"precisión\" que el contrabajo no ofrecía.",
+    "characteristics": [
+      "Trastes: La mayoría posee barras de metal (trastes) en el mástil que delimitan las notas, facilitando la afinación perfecta al tacto.",
+      "Electrónica: Utiliza pastillas (pickups) que captan la vibración de las cuerdas metálicas. Puede ser pasivo (sonido clásico y dinámico) o activo (con un preamplificador alimentado por batería para mayor potencia y control de tono).",
+      "Cuerdas: Generalmente tiene 4 cuerdas (afinadas igual que el contrabajo), pero son comunes los de 5 cuerdas (para alcanzar notas más graves) y 6 cuerdas (para mayor rango melódico).",
+      "Escala: Su longitud de escala estándar es de 34 pulgadas, mucho más corta que la del contrabajo, lo que permite una ejecución mucho más rápida y técnica."
+    ],
+    "datoCurioso": "El bajo eléctrico es responsable del nacimiento de técnicas percusivas como el \"Slap\". Esta técnica, popularizada por Larry Graham en los años 60, consiste en golpear las cuerdas con el pulgar y \"tirar\" de ellas con el índice, convirtiendo al bajo en un instrumento que suena casi como una batería."
+  }
+]

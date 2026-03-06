@@ -2,7 +2,7 @@ import { useParams, Link } from 'react-router-dom';
 import { motion, useScroll, useTransform } from 'framer-motion';
 import { useRef } from 'react';
 import instruments from '../data/instruments.json';
-import Footer from '../components/footer';
+import Footer from '../components/Footer';
 
 function Details() {
   const { id } = useParams();
@@ -41,7 +41,7 @@ function Details() {
                 style={{ y, opacity }}
             />
         </div>
-        <div className="p-10 text-white bg-[#171835] bg-opacity-80 mx-auto mt-10 w-100%">
+        <div className="p-10 text-white bg-[#171835] bg-opacity-80 mx-auto mt-10 w-full">
             <div className="bg-[#151f33d1] bg-opacity-[] p-6 rounded-lg mb-8 border border-purple-500 relative z-10">
                 <h2 className="text-3xl font-bold mb-4 text-purple-400">Descripción</h2>
                 <p className="text-lg">{instrument.description}</p>
